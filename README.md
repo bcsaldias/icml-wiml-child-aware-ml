@@ -6,8 +6,8 @@ This repo contains material for the breakout session `Towards Children-Aware Mac
 
 Breakout sessions come in many shapes and forms, but their one unifying characteristic is that they are free-form discussions between small groups of participants on topics relevant to the theme of the session proposed by the leaders. 
 
-- Co-leaders: [Belen Saldias](https://github.com/bcsaldias), [Safinah Ali](https://github.com/safinahali)
-- Facilitator: [Tamara Covacevich](https://github.com/tamycova)
+- Co-leaders: [Belen Saldias](https://belencarolina.com), [Safinah Ali](http://safinahali.github.io)
+- Facilitator: [Tamara Covacevich](https://github.com/tamycova), [Clare Liu](amikago.github.io)
 
 
 ## Abstract

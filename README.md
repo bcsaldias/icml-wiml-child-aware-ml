@@ -1,5 +1,5 @@
 # WiML brekout session at ICML
-### Towards Children-Aware Machine Learning with a Focus on NLP Challenges and Applications
+### Towards Child-Aware Machine Learning with a Focus on NLP Challenges and Applications
 
 
 This repo contains material for the breakout session `Towards Children-Aware Machine Learning with a Focus on NLP Challenges and Applications`, which will be held at the [WiML Un-Workshop at ICML](https://icml.cc/Conferences/2020/Schedule?showEvent=7300) on **Monday, July 13, 2020 at 2:35-3:35 pm ET**.

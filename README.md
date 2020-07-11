@@ -38,6 +38,10 @@ Safinah is a PhD student in the Personal Robots group at MIT. Her research focus
 ##### Tamara Covacevich
 Tamara, B.Sc., is a master's student in the IA Lab at the Pontifical Catholic University of Chile. Her current research focuses on representation learning for healthcare challenges. Specifically, she is studying medical records representations and ways to leverage them to improve performance of the readmission prediction task.
 
+##### Clare Liu
+Clare is currently an undergraduate at MIT, studying design and computer science. Alongside exploring the intersection of art and technology, she adores reading and telling stories and designing new systems to share them. She hopes to tell thought-provoking and touching stories, translating everyday sentiments into a much more understandable medium.
+
+
 
 ## References
 

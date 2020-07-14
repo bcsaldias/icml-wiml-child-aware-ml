@@ -9,6 +9,9 @@ Breakout sessions come in many shapes and forms, but their one unifying characte
 - Co-leaders: [Belen Saldias](https://belencarolina.com), [Safinah Ali](http://safinahali.github.io)
 - Facilitator: [Tamara Covacevich](https://github.com/tamycova), [Clare Liu](amikago.github.io)
 
+## Session notes
+
+Pleasee find a summary of our notes here: [notes-child_aware_nlp_wiml_icml.pdf](https://github.com/bcsaldias/icml-wiml-child-aware-ml/blob/master/notes-child_aware_nlp_wiml_icml.pdf)
 
 ## Abstract
 
